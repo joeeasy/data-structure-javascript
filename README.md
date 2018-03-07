@@ -1,5 +1,4 @@
-###Data Structures With Javascripts (DSjs)
-
+<h3>Data Structures With Javascripts (DSjs)</h3>
 <p>DSjs a javascript library that allow you implement some of the most common data structure, It's a simple yet fully tested javascript implementation of Data Structures
 <h4>How to install</h4>
 
