@@ -1,0 +1,41 @@
+{
+  "name": "dsjs",
+  "simpleName": "Dsjs",
+  "version": "1.0.0",
+  "description": "Dsjs Is A Simple Yet Fully Test Javascript Implementation Of Data Structures",
+  "main": "dist/ds.js",
+  "scripts": {
+    "build": "babel source --presets babel-preset-en",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "joeeasy",
+    "url": "https:github/joeeasy"
+  },
+  "keywords": [
+    "Array",
+    "Hash Table",
+    "Set",
+    "Singly Linked List",
+    "Doubly Linked List",
+    "Stack",
+    "Queue",
+    "Tree",
+    "Binary Search Tree",
+    "Trie",
+    "Graph"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joeeasy/data-structure-javascript.git"
+  },
+  "homepage": "https://github.com/joeeasy/data-structure-javascript",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
